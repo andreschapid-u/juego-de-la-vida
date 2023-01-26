@@ -1,0 +1,11 @@
+td {
+  width: 10px;
+  height: 10px;
+  border: 1px solid #ccc;
+}
+.viva {
+  background-color: black;
+}
+.muerta {
+  background-color: white;
+}
